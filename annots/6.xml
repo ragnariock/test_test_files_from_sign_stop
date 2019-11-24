@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>6.jpg</filename>
-	<path>/home/ostap/Documents/LNU/kiberg/lab3/images/1.jpg</path>
+	<path>/home/ostap/Documents/LNU/kiberg/Vision/test/images/1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>517</xmin>
-			<ymin>578</ymin>
-			<xmax>358</xmax>
-			<ymax>460</ymax>
+			<xmin>630</xmin>
+			<ymin>655</ymin>
+			<xmax>430</xmax>
+			<ymax>456</ymax>
 		</bndbox>
 	</object>
 </annotation>
